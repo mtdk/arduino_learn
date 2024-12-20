@@ -2,7 +2,7 @@
   AnalogReadSerial
   获取模拟信号示例
   实验要求：
-  本示例使用arduino nou 开发版+光敏传感器
+  本示例使用 ESP-12F 开发版+光敏传感器
   Reads an analog input on pin 0, prints the result to the Serial Monitor.
   读取0号针脚的模拟信号，并在串口监视器中显示
   Graphical representation is available using Serial Plotter (Tools > Serial Plotter menu).
